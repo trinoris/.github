@@ -30,9 +30,7 @@ Protecting source code, repository history, and developer workflows through tran
 
 The public product demonstration for the Trinoris secure stack is available here:
 
-<iframe src="https://trinoris.github.io/secure/" title="Trinoris Secure Demo" width="100%" height="700" style="border: 1px solid #ddd; border-radius: 8px;"></iframe>
-
-You can also visit the demo directly at <https://trinoris.github.io/secure/>.
+Open the Trinoris Secure demo: <https://trinoris.github.io/secure/>
 
 ### Hardware Security & Identity
 
