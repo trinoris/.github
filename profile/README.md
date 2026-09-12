@@ -20,6 +20,20 @@ Trinoris focuses on product categories that connect AI creation, secure software
 - Key management and recovery infrastructure
 - Verification, audit, and package quality workflows
 
+## GitHub Highlights
+
+GitHub-native links and automation signals can highlight the Trinoris public software footprint:
+
+- Repository: [trinoris/secure](https://github.com/trinoris/secure)
+- Organization profile repository: [trinoris/.github](https://github.com/trinoris/.github)
+- Demo site: <https://trinoris.github.io/secure/>
+
+Badges and workflow signals are visible in the secure repository README and can be referenced here:
+
+[![Build CI](https://github.com/trinoris/secure/actions/workflows/build-ci.yml/badge.svg)](https://github.com/trinoris/secure/actions/workflows/build-ci.yml)
+[![CodeQL](https://github.com/trinoris/secure/actions/workflows/codeql.yml/badge.svg)](https://github.com/trinoris/secure/actions/workflows/codeql.yml)
+[![Release](https://github.com/trinoris/secure/actions/workflows/release.yml/badge.svg)](https://github.com/trinoris/secure/actions/workflows/release.yml)
+
 ## Product Lines
 
 ### Secure Git & Repository Intelligence
