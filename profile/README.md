@@ -34,6 +34,22 @@ Badges and workflow signals are visible in the secure repository README and can 
 [![CodeQL](https://github.com/trinoris/secure/actions/workflows/codeql.yml/badge.svg)](https://github.com/trinoris/secure/actions/workflows/codeql.yml)
 [![Release](https://github.com/trinoris/secure/actions/workflows/release.yml/badge.svg)](https://github.com/trinoris/secure/actions/workflows/release.yml)
 
+## Three Killer Use Cases
+
+Trinoris SecureGit is designed for teams that need developer workflows to stay private, portable, and secure across the full Git lifecycle.
+
+### 1. Protecting Source Code from Repository Leakage
+
+A startup, enterprise team, or research group can encrypt selected files before they are committed and pushed. Sensitive configuration, credentials, and contract artifacts stay invisible to the repository, CI cache, mirror, and backup path while normal Git commands continue to work.
+
+### 2. Secure Open Source and Private Collaboration
+
+Organizations that mix public repositories with private secrets can use SecureGit to preserve the benefits of Git collaboration while keeping plaintext secrets out of the distributed history. Teams can collaborate in public repositories without moving their protected data into plaintext cloud storage.
+
+### 3. Hardware-Backed Developer Trust
+
+Engineering teams that already use YubiKey, PIV, and FIDO2 hardware identity patterns can plug secure key providers into the development workflow. This makes repository encryption stronger by joining client-side Git workflows with real device-backed identity and verification.
+
 ## Product Lines
 
 ### Secure Git & Repository Intelligence
